@@ -13,7 +13,7 @@ Create the feature to detect a person with long hair as female even though they 
 1. Clone this Repository
 2. Downlod the Dataset from the [here] https://www.kaggle.com/datasets/jangedoo/utkface-new.
 3. Extract the Dataset to your repository folder
-4. Open the [Model Jupyter Notebook] 
+4. Open the [Model Jupyter Notebook] https://github.com/Gaganesh61092/CNN-Model---Hair-and-Nationality-feature/blob/main/Model.ipynb
 5. Run the notebook
 6. Run the [gui.py] 
 7. Upload the Image that you want to detect
